@@ -43,3 +43,13 @@ Vishwanth
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
+## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home](https://github.com/vishwa214/smart-shop-app/blob/main/home.png)
+
+### 📦 Product Screen
+![Product](https://github.com/vishwa214/smart-shop-app/blob/main/product.png)
+
+### 🛒 Cart Screen
+![Cart](https://github.com/vishwa214/smart-shop-app/blob/main/cart.png)
