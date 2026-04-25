@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/bg_layout"
+    android:padding="20dp">
+
+    <ImageView
+        android:id="@+id/iv_success"
+        android:layout_width="400dp"
+        android:layout_height="424dp"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/ordersuccess" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Payment Successful!"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="20dp"/>
+
+    <!-- 🔥 Order ID -->
+    <TextView
+        android:id="@+id/tv_order_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:layout_marginBottom="8dp"/>
+
+    <!-- 🔥 Payment Method -->
+    <TextView
+        android:id="@+id/tv_payment_method"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp"/>
+
+    <!-- 🔥 Delivery Date -->
+    <TextView
+        android:id="@+id/tv_delivery_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/btn_continue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Continue Shopping"/>
+    <Button
+        android:id="@+id/btn_download_invoice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Download Invoice"
+        android:layout_marginTop="15dp"/>
+
+</LinearLayout>

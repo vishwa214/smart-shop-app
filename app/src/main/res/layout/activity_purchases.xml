@@ -1,0 +1,74 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_layout">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/purchases"
+        android:drawablePadding="10dp"
+        android:padding="10dp"
+        android:text="Purchases"
+        android:textColor="@color/white"
+        android:textSize="30sp" />
+
+    <ListView
+        android:id="@+id/lv_purchases"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <TextView
+        android:id="@+id/tv_total_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:text="Total: ₹0"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:background="#DDDDDD"
+        android:gravity="end"/>
+    <RadioGroup
+        android:id="@+id/rg_payment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <RadioButton
+            android:id="@+id/rb_cod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cash on Delivery"
+            android:checked="true"/>
+
+        <RadioButton
+            android:id="@+id/rb_upi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="UPI"/>
+
+        <RadioButton
+            android:id="@+id/rb_card"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Credit / Debit Card"/>
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btn_checkout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Proceed to Checkout"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:backgroundTint="#4CAF50"
+        android:textColor="@android:color/white"
+        android:padding="15dp"/>
+
+
+</LinearLayout>
