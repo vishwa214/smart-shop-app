@@ -46,10 +46,10 @@ If you like this project, give it a ⭐ on GitHub!
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home](https://github.com/vishwa214/smart-shop-app/blob/main/home.png)
+![Home]Screenshot 2026-04-25 145640.png)
 
 ### 📦 Product Screen
-![Product](https://github.com/vishwa214/smart-shop-app/blob/main/product.png)
+![Product](Screenshot 2026-04-25 145608.png)
 
 ### 🛒 Cart Screen
-![Cart](https://github.com/vishwa214/smart-shop-app/blob/main/cart.png)
+![Cart](Screenshot 2026-04-25 145539.png)
