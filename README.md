@@ -65,7 +65,7 @@ Example:
 markdown
 ## Home Screen
 
-![Home](screenshots/home.png)
+![Home](screenshots/Screenshot 2026-04-25 145539.png)
 
 ## Products
 
