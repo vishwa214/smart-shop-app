@@ -65,15 +65,15 @@ Example:
 markdown
 ## Home Screen
 
-![Home](screenshots/Screenshot 2026-04-25 145539.png)
+![Home](screenshots/home.jpeg)
 
 ## Products
 
-![Products](screenshots/Screenshot 2026-04-25 145608.png.png)
+![Products](screenshots/product.jpeg)
 
 ## Cart
 
-![Cart](screenshots/cart.png)
+![Cart](screenshots/cart.jpeg)
 
 
 ---
