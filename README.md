@@ -66,9 +66,9 @@ markdown
 # 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.jpeg" alt="Home" width="250"/>
-  <img src="screenshots/product.jpeg" alt="Products" width="250"/>
-  <img src="screenshots/cart.jpeg" alt="Cart" width="250"/>
+  <img src="screenshots/home.jpeg" width="300"/><br><br>
+  <img src="screenshots/product.jpeg" width="300"/><br><br>
+  <img src="screenshots/cart.jpeg" width="300"/>
 </p>
 
 ---
