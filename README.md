@@ -69,7 +69,7 @@ markdown
 
 ## Products
 
-![Products](screenshots/products.png)
+![Products](screenshots/Screenshot 2026-04-25 145608.png.png)
 
 ## Cart
 
