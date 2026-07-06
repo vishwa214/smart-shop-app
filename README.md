@@ -39,17 +39,3 @@ This app allows users to browse products, view details, and simulate an e-commer
 Vishwanth
 
 ---
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
-## 📸 Screenshots
-
-### 🏠 Home Screen
-![Home]Screenshot 2026-04-25 145640.png)
-
-### 📦 Product Screen
-![Product](Screenshot 2026-04-25 145608.png)
-
-### 🛒 Cart Screen
-![Cart](Screenshot 2026-04-25 145539.png)
