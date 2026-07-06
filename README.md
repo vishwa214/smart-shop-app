@@ -63,18 +63,13 @@ screenshots/
 Example:
 
 markdown
-## Home Screen
+# 📱 Screenshots
 
-![Home](screenshots/home.jpeg)
-
-## Products
-
-![Products](screenshots/product.jpeg)
-
-## Cart
-
-![Cart](screenshots/cart.jpeg)
-
+<p align="center">
+  <img src="screenshots/home.jpeg" alt="Home" width="250"/>
+  <img src="screenshots/product.jpeg" alt="Products" width="250"/>
+  <img src="screenshots/cart.jpeg" alt="Cart" width="250"/>
+</p>
 
 ---
 
